@@ -1,6 +1,6 @@
 # Data-Structures_PlayGround-in-C
 
-Welcome to the Data Structures Playground in C! This repository contains various implementations of fundamental data structures in the C programming language.
+Hello Im Rajuan, Welcome to the Data Structures Playground in C! This repository contains various implementations of fundamental data structures in the C programming language.
 
 ## Table of Contents
 - Introduction
